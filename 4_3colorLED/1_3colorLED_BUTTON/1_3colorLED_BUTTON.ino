@@ -2,8 +2,8 @@
 #define GREEN 10
 #define BLUE 9
 #define RED_BUTTON 4
-#define GREEN_BUTTON 4
-#define BLUE_BUTTON 4
+#define GREEN_BUTTON 5
+#define BLUE_BUTTON 6
 
 int r=0, g=0, b=0;
 void setup() {
